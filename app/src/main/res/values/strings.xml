@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Color</string>
+    <string name="button">Выбрать</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Black</item>
+        <item>Yellow</item>
+    </string-array>
+    <string-array name="discription">
+        <item>
+            1111111111111111111111111111
+        </item>
+        <item>
+            222222222222222222222222
+        </item>
+        <item>3333333333333333333333</item>
+        <item>444444444444444444444444
+
+        </item>
+        <item>5555555555555555555555555555555</item>
+    </string-array>
+</resources>
